@@ -1,6 +1,6 @@
 # Agentic-AI-AI-News-Web-Chatbot
 
-https://agentic-ai-ai-news-web-chatbot-3l84agbtar9dywk28gxnkc.streamlit.app/ 
+DEMO: https://agentic-ai-ai-news-web-chatbot-3l84agbtar9dywk28gxnkc.streamlit.app/ 
 
 # Agentic AI Chatbot
 
